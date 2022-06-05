@@ -17,15 +17,18 @@ Intellij Or Eclipse: - Integrated Development Environment
 Hamcrest library: - Assertion for tests
 
 **Test Automation framework support**
+
 Ashwin Naik
 Test Automation Architect
 ashwinnaik87@gmail.com
 
 **Machine Configuration**
+
 Configure Windows and setup: -
 *Java 8
 *Git *Maven
 
 **Compile Build or Run Tests**
+
 Navigate to the project root folder.
 Run the command -> mvn clean install.
